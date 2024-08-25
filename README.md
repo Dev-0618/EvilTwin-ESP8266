@@ -1,5 +1,5 @@
 # ESP-EVTwin
-100% Working ESP8266 EVIL TWIN ATTACK
+
 ESP-EVTwin is an educational project that allows you to deauthenticate a target WiFi access point and create an Evil-Twin AP to capture passwords with verification against the original access point. You can perform both attacks simultaneously. This tool is designed for educational purposes only; please ensure that you comply with local regulations before using it.
 
 ## Features
